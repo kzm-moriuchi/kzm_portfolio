@@ -11513,7 +11513,15 @@ ul.career {
   font-size: 24px;
 }
 
+ul.skillset {
+  font-size: 20px;
+}
+
 .new_line {
   display: block;
+}
+
+li.language {
+  font-size: 24px;
 }
 
