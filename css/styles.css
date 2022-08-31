@@ -11508,4 +11508,12 @@ html {
   background-color: #1a252f;
 }
 
-ul.career{ font-size: 24px;}
+/*以下、自作したcss*/
+ul.career { 
+  font-size: 24px;
+}
+
+.new_line {
+  display: block;
+}
+
