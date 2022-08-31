@@ -11513,8 +11513,12 @@ ul.career {
   font-size: 24px;
 }
 
-ul.skillset {
+ul.skilltype {
   font-size: 20px;
+}
+
+li.skilltype {
+  font-size: 24px;
 }
 
 .new_line {
@@ -11522,6 +11526,6 @@ ul.skillset {
 }
 
 li.language {
-  font-size: 24px;
+  font-size: 22px;
 }
 
